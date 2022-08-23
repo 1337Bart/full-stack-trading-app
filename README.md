@@ -14,3 +14,7 @@ To be done:
 2) charts in stock pages
 3) breakout indicators
 4) automatic trading when certain conditions are met
+
+
+To start:
+Open Alpaca account and paste your APIs into the config file.
